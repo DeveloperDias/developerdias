@@ -13,7 +13,7 @@
  <br/>
  <br/>
    <a target="_blank"><img align="center" alt="Dias-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-width: 100%;"></a>
-   <a target="_blank"><img align="center" alt="Dias-NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" style="max-width: 100%;"></a>
+   <a target="_blank"><img align="center" alt="Dias-NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" style="max-width: 100%"></a>
  <br/>
  <br/>
    <a target="_blank" ><img align="center" alt="Dias-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" style="max-width: 100%;"></a>
