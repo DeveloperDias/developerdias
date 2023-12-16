@@ -9,9 +9,13 @@
   <a target="_blank" ><img align="center" alt="Dias-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;"></a>
   <a target="_blank" ><img align="center" alt="Dias-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;"></a>
  <a target="_blank"><img align="center" alt="Dias-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" style="max-width: 100%;"></a>
-   <a target="_blank"><img align="center" alt="Dias-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-width: 100%;"></a>
-   <a target="_blank"><img align="center" alt="Dias-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" style="max-width: 100%;"></a>
-   <a target="_blank" ><img align="center" alt="Dias-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" style="max-width: 100%;"></a>
  <a target="_blank"><img align="center" alt="Dias-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;"></a>
+ <br/>
+ <br/>
+   <a target="_blank"><img align="center" alt="Dias-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-width: 100%;"></a>
+   <a target="_blank"><img align="center" alt="Dias-NextJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" style="max-width: 100%;"></a>
+ <br/>
+ <br/>
+   <a target="_blank" ><img align="center" alt="Dias-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" style="max-width: 100%;"></a>
 </div>
 </div>
