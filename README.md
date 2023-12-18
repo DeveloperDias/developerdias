@@ -15,7 +15,7 @@ Ju## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1
 
  <a target="_blank" ><img align="center" alt="Dias-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="max-width: 100%;"></a>
   <a target="_blank" ><img align="center" alt="Dias-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="max-width: 100%;"></a>
- <a target="_blank" ><img align="center" alt="Dias-Tailwindcss" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" style="max-width: 100%;"></a>
+ <a target="_blank" ><img align="center" alt="Dias-Tailwindcss" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" style="background-color: white;"></a>
 
 <br/>
 
