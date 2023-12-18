@@ -7,7 +7,7 @@
 <div dir="auto"><br>
 
  
-<a target="_blank"><img align="center" alt="Dias-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/JavaScript/JavaScript.svg" style="max-width: 100%;"></a>
+<a target="_blank"><img align="center" alt="Dias-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript.svg" style="max-width: 100%;"></a>
 
  <a target="_blank"><img align="center" alt="Dias-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" style="max-width: 100%;"></a>
 
