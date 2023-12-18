@@ -7,10 +7,10 @@
 <div dir="auto"><br>
 
  
-<a target="_blank"><img align="center" alt="Dias-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" style="max-width: 100%;"></a>
- <a target="_blank"><img align="center" alt="Dias-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/JavaScript/JavaScript-original.svg" style="max-width: 100%;"></a>
+<a target="_blank"><img align="center" alt="Dias-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/JavaScript/JavaScript.svg" style="max-width: 100%;"></a>
 
  <a target="_blank"><img align="center" alt="Dias-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" style="max-width: 100%;"></a>
+
  <a target="_blank"><img align="center" alt="Dias-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;"></a>
  <br/>
  <br/>
