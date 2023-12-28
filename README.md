@@ -6,7 +6,7 @@
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developerdias&layout=donut&theme=dark&border_color=00000000&bg_color=00000000&text_bold=false)](https://github.com/anuraghazra/github-readme-stats)
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=developerdias&show_icons=true&bg_color=00000000&title_color=ffff&icon_color=ffff&border_color=00000000&rank_icon=github&text_bold=false)
+
   
 </div>
 
