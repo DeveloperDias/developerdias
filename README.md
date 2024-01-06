@@ -8,7 +8,7 @@ Atualmente estou mergulhado na área da programação, vivenciando experiencias 
 
 
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&labelColor=white&logo=gmail&logoColor=EA4335)](mailto:robertodiasdev@gmail.com?subject=[GitHub]%20Acabei%20de%20ver%20o%20seu%20GitHub)
-[![Linkedin](https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/developerdias/)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/robertodiasdev/)
   
 
 ## Tecnologias:
