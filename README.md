@@ -1,4 +1,4 @@
-## <center>Hello World, I'm Roberto Dias <img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif width="30">
+## <center>Hello World <img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif width="30">
 
 Cursando Ciência da Computação (EAD) pela [Uniamérica + Descomplica](https://descomplica.com.br/faculdade/tecnologia/ciencia-da-computacao/)
 
