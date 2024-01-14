@@ -6,7 +6,6 @@ Atualmente estou mergulhado na área da programação, vivenciando experiencias 
 
 ## Contatos:
 
-
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&labelColor=white&logo=gmail&logoColor=EA4335)](mailto:robertodiasdev@gmail.com?subject=[GitHub]%20Acabei%20de%20ver%20o%20seu%20GitHub)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-white?style=for-the-badge&logo=Linkedin&logoColor=0B66C3)](https://www.linkedin.com/in/robertodiasdev/)
   
