@@ -2,7 +2,7 @@
 
 Cursando Ciência da Computação (EAD) pela [Uniamérica + Descomplica](https://descomplica.com.br/faculdade/tecnologia/ciencia-da-computacao/)
 
-Atualmente estou mergulhado na área da programação, vivenciando experiencias reais com projetos online e autorais além de serviços voluntários, procuro sempre saciar dúvidas recorrentes com a melhor prática para resolvê-las, não sou apegado a nenhuma tecnologia porém hoje me destaco em Desenvolvimento Web e Mobile com o uso do React e React Native, porém me aprofundo também com o Framework Angular e NextJS com suas novas versões, espero um dia poder colaborar com alguma empresa ou estágio para fortalecer meu currilo junto com o meu sonho.
+Hi fellas
 
 ## Contatos:
 
